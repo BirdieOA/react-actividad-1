@@ -1,0 +1,39 @@
+html{
+    color-scheme: dark;
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    
+}
+.atanagildo{
+    margin-top: 10px;
+    padding-bottom: 50px;
+}
+
+.ataulfo{
+    padding-bottom: 50px;
+    
+}
+
+.ervigio{
+    padding-bottom: 50px;
+}
+
+.img1{
+    background-color: #286157;
+    border-radius: 50%;
+    padding: 10px;
+    
+}
+.img2{
+    background-color: #286157;
+    border-radius: 50%;
+    padding: 10px;
+}
+.img3{
+    background-color: #286157;
+    border-radius: 50%;
+    padding: 10px;
+}
