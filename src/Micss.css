@@ -2,38 +2,25 @@ html{
     color-scheme: dark;
 }
 
-.app{
+.container{
     display: flex;
-    flex-direction: column;
-    
-}
-.atanagildo{
-    margin-top: 10px;
-    padding-bottom: 50px;
-}
-
-.ataulfo{
-    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
     
 }
 
-.ervigio{
-    padding-bottom: 50px;
+.caja{
+    width: 30%;
+    border-radius: 10px;
+    background-color: #286157;
+    font-size: 1rem;
+    border: 4px solid #183933;
+    text-align: center;
+    padding: 10px;
+    margin: 20px;
 }
 
-.img1{
-    background-color: #286157;
-    border-radius: 50%;
-    padding: 10px;
-    
-}
-.img2{
-    background-color: #286157;
-    border-radius: 50%;
-    padding: 10px;
-}
-.img3{
-    background-color: #286157;
-    border-radius: 50%;
-    padding: 10px;
+
+.img{
+   width: 100%;
 }
